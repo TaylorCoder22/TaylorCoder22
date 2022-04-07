@@ -1,5 +1,4 @@
-### Hi there 👋, Tamara Taylor
-
+### Hi there 👋, I'm Tamara
 Full Stack Web Developer
 
 - 🔭 I’m currently working for Capital Blue Cross.
