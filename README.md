@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Tamara
-Full Stack Web Developer
+Software Engineer
 
 - 🔭 I’m currently working for Capital Blue Cross.
 - 🌱 I’m currently learning Node.js
