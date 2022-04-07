@@ -1,3 +1,6 @@
+![web-development-concept-web-site-coding-full-stack-programing-web-security-usability-platform-testing-web-developer-209521403](https://user-images.githubusercontent.com/78834369/162335465-d7d3217f-2a5e-4630-8cb2-46992ceeb094.jpg)
+
+
 ### Hi there 👋, I'm Tamara
 Software Engineer
 
