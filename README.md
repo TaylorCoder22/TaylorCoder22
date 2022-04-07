@@ -8,8 +8,9 @@ Software Engineer
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am one of 16 siblings!
 
-Connect With Me
-![Twitter-Emblem-700x394](https://user-images.githubusercontent.com/78834369/162334854-849edf4a-92a0-4a05-8d72-84bab4a70b1d.png)
+Connect With Me:
+
+![twitter](https://user-images.githubusercontent.com/78834369/162335089-67b4d1fa-f2f2-4022-ae11-f3f44da54212.png)
 <!--
 **TaylorCoder22/TaylorCoder22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
